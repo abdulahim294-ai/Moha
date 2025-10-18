@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>محمد عبد الله</title>
+<style>
+  body {
+    font-family: "Tajawal", sans-serif;
+    background: linear-gradient(135deg, #0d1b2a, #1b263b);
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 40px 20px;
+  }
+
+  img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #00b4d8;
+  }
+
+  h1 {
+    margin: 15px 0 5px;
+    font-size: 28px;
+  }
+
+  p {
+    max-width: 400px;
+    margin: 10px auto;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+
+  .links a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background: #00b4d8;
+    color: #fff;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+
+  .links a:hover {
+    background: #0077b6;
+  }
+
+  footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #aaa;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.ibb.co/bz6mJkb/avatar.png" alt="صورة محمد عبد الله" />
+    <h1>محمد عبد الله</h1>
+    <p>مطور ويب مبتدئ أحب تحويل الأفكار إلى مواقع بسيطة وفعالة.  
+    هدفي أن أتعلم وأطور نفسي خطوة بخطوة 💪</p>
+
+    <div class="links">
+      <a href="https://wa.me/252xxxxxxxxx" target="_blank">واتساب</a>
+      <a href="mailto:abdullah@example.com">الإيميل</a>
+      <a href="https://instagram.com/username" target="_blank">إنستجرام</a>
+    </div>
+
+    <footer>© 2025 محمد عبد الله</footer>
+  </div>
+</body>
+</html>
